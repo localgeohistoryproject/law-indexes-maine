@@ -1,5 +1,7 @@
 # Law Indexes: Maine
 
+[![DOI](https://zenodo.org/badge/737969155.svg)](https://zenodo.org/doi/10.5281/zenodo.10457133)
+
 ## Summary
 
 As part of efforts to expand the Local Geohistory Project, which aims to educate users and disseminate information concerning the geographic history and structure of political subdivisions and local government, this respository has been created to disseminate law index data for the State of Maine. This index currently covers private and special laws only from 1820 through 1957.
