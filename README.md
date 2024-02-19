@@ -14,7 +14,7 @@ This repository does not contain the full text of the laws, nor does it currentl
 
 ## Harmful Content
 
-The terms used in the law indexes were drawn from Source Works that were written before modern concepts of diversity, equity, and inclusion were developed, and have not been updated to reflect modern standards. Some terms may:[^1]
+The terms used in the law indexes were drawn from Source Works that were written before current diversity, equity, and inclusion principles were developed, and have not been updated to reflect modern standards. Some terms may:[^1]
 
 - reflect racist, sexist, ableist, misogynistic/misogynoir, and xenophobic opinions and attitudes;
 - be discriminatory towards or exclude diverse views on sexuality, gender, religion, and more;
@@ -61,6 +61,6 @@ The following is a general methodology for how the law indexes were derived from
 - The SVGs are reviewed to ensure each data point is accurately categorized, that the data points appear in the correct order on the page, and for blatant OCR errors. In some cases, data points are split where Amazon Textract did not correctly separate them. Because these indexes often use positional prefixes in lieu of repeating text, these prefixes are split off into separate data points where found.
   - **Note:** The accuracy of the OCR was, in general, not manually reviewed.
 - For certain data types, data integrity checks are done to ensure the data makes sense (e.g., whether years are digits and fall in the correct time period).
-- The data points are combined and reorganized using database views to create the final report. As part of this reorganization, it is determined where repeating data points like subjects and positional prefixes start and end.
+- The data points are combined and reorganized using a Python script to create the final report. As part of this reorganization, it is determined where repeating data points like subjects and positional prefixes start and end.
 
 [^1]: Some content in this section was derived from the following work: National Archives and Records Administration. *NARA's Statement on Potentially Harmful Content.* 17 June 2022. <https://www.archives.gov/research/reparative-description/harmful-content>.
