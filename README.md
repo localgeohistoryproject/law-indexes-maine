@@ -4,7 +4,7 @@
 
 ## Summary
 
-As part of efforts to expand the Local Geohistory Project, which aims to educate users and disseminate information concerning the geographic history and structure of political subdivisions and local government, this respository has been created to disseminate law index data for the State of Maine. This index currently covers private and special laws only from 1820 through 1957.
+As part of efforts to expand the Local Geohistory Project, which aims to educate users and disseminate information concerning the geographic history and structure of political subdivisions and local government, this repository has been created to disseminate law index data for the State of Maine. This index currently covers private and special laws only from 1820 through 1957.
 
 Private and special laws concern one or several individuals, entities, or localities, unlike public or general laws, which apply to all similarly situated individuals, entities, and localities within a jurisdiction. Throughout New England, private and special laws were often the primary method used to alter municipal and county boundaries and forms of government.
 
