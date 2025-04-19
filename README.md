@@ -63,4 +63,4 @@ The following is a general methodology for how the law indexes were derived from
 - For certain data types, data integrity checks are done to ensure the data makes sense (e.g., whether years are digits and fall in the correct time period).
 - The data points are combined and reorganized using a Python script to create the final report. As part of this reorganization, it is determined where repeating data points like subjects and positional prefixes start and end.
 
-[^1]: Some content in this section was derived from the following work: National Archives and Records Administration. *NARA's Statement on Potentially Harmful Content.* 17 June 2022. <https://www.archives.gov/research/reparative-description/harmful-content>.
+[^1]: Some content in this section was derived from the following work: National Archives and Records Administration. *NARA's Statement on Potentially Harmful Content.* 17 June 2022. Archived 16 January 2025 by Wayback Machine. <https://web.archive.org/web/20250116215713/https://www.archives.gov/research/reparative-description/harmful-content>.
