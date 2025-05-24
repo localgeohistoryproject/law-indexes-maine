@@ -5,6 +5,7 @@
 ### Fixed
 
 - README Citation that included a removed federal government link to use Wayback Machine.
+- README Citation to Hirtle to cite exact date.
 
 ## [1.1.0] - 2024-02-19
 
