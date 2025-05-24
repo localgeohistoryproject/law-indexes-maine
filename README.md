@@ -39,7 +39,7 @@ The following Source Works were used to create this law index:
 
 Prior to inclusion, source works were examined to determine whether they fell under the public domain in the United States, using the following guides:
 
-Hirtle, Peter B. "Copyright Services: Copyright Term and the Public Domain." *Cornell University Library.* 2004-2023. <https://guides.library.cornell.edu/copyright/publicdomain>.
+Hirtle, Peter B. "Copyright Services: Copyright Term and the Public Domain." *Cornell University Library.* 14 January 2025. <https://guides.library.cornell.edu/copyright/publicdomain>.
 
 U.S. Copyright Office. *Compendium of U.S. Copyright Office Practices,* 3rd ed. 2021. § 313.6(C). <https://www.copyright.gov/comp3/docs/compendium.pdf#page=83>.
 
