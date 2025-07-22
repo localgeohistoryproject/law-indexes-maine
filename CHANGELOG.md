@@ -2,6 +2,10 @@
 
 ## [1.1.1] - 2025-07-21
 
+### Added
+
+- to README, Harmful Content: an additional sentence regarding graphic content.
+
 ### Fixed
 
 - Minor spelling corrections.

@@ -18,6 +18,7 @@ The terms used in the law indexes were drawn from Source Works that were written
 
 - reflect racist, sexist, ableist, misogynistic/misogynoir, and xenophobic opinions and attitudes;
 - be discriminatory towards or exclude diverse views on sexuality, gender, religion, and more;
+- include graphic content of historical events such as violent death, medical procedures, crime, wars/terrorist acts, natural disasters, and more; or
 - demonstrate bias and exclusion in the subjects documented.
 
 ## Using tab-separated values (TSV) files
