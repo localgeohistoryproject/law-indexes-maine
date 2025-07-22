@@ -8,7 +8,7 @@
 
 ### Fixed
 
-- Minor spelling corrections.
+- Minor spelling and stylistic corrections.
 - README citation that included a removed federal government link to use Wayback Machine.
 - README citation to Hirtle to cite exact date.
 
