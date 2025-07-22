@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.1] - 2025-07-21
+
+### Added
+
+- to README, Harmful Content: an additional sentence regarding graphic content.
+
+### Fixed
+
+- Minor spelling and stylistic corrections.
+- README citation that included a removed federal government link to use Wayback Machine.
+- README citation to Hirtle to cite exact date.
+
 ## [1.1.0] - 2024-02-19
 
 ### Changed
@@ -27,6 +39,7 @@
 
 - Public release of the Law Indexes: Maine repository.
 
+[1.1.1]: https://github.com/localgeohistoryproject/law-indexes-maine/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/localgeohistoryproject/law-indexes-maine/compare/v1.0.1...v1.1.0
 [1.0.1]: https://github.com/localgeohistoryproject/law-indexes-maine/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/localgeohistoryproject/law-indexes-maine/releases/tag/v1.0.0
