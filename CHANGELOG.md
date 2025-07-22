@@ -1,11 +1,12 @@
 # Changelog
 
-## [Unreleased]
+## [1.1.1] - 2025-07-21
 
 ### Fixed
 
-- README Citation that included a removed federal government link to use Wayback Machine.
-- README Citation to Hirtle to cite exact date.
+- Minor spelling corrections.
+- README citation that included a removed federal government link to use Wayback Machine.
+- README citation to Hirtle to cite exact date.
 
 ## [1.1.0] - 2024-02-19
 
@@ -34,7 +35,7 @@
 
 - Public release of the Law Indexes: Maine repository.
 
-[Unreleased]: https://github.com/localgeohistoryproject/law-indexes-maine/compare/v1.1.0...develop
+[1.1.1]: https://github.com/localgeohistoryproject/law-indexes-maine/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/localgeohistoryproject/law-indexes-maine/compare/v1.0.1...v1.1.0
 [1.0.1]: https://github.com/localgeohistoryproject/law-indexes-maine/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/localgeohistoryproject/law-indexes-maine/releases/tag/v1.0.0
