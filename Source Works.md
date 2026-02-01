@@ -1,0 +1,6 @@
+# Source Works
+
+| Type | Volume | Citation | Coverage | Online Version | Notes |
+| ---- | ------ | -------- | -------- | -------------- | ----- |
+| Me. Priv. & Spec. Acts Index | 1820-1944 | Maine Attorney General. *Index to the Private and Special Laws enacted by the Legislatures of the State of Maine from 1820 to 1944, inclusive.* Augusta, Me.: 1944. | 1820-1944 | [Maine Law and Legislative Reference Library](https://lldc.mainelegislature.org/Open/Laws/Indexes/PSIndex_1820-1944.pdf) | No copyright notice found. Version used for this index personally digitized from hard copy. |
+| Me. Priv. & Spec. Acts Index | 1944-1957 | Maine Attorney General. *Index to the Private and Special Laws enacted by the Legislature of the State of Maine, 1944 to 1957.* [Augusta, Me.?: 1958?] | 1944-1957 | [Maine Law and Legislative Reference Library](https://lldc.mainelegislature.org/Open/Laws/Indexes/PSIndex_1944-1957.pdf) | No copyright notice found. Version used for this index personally digitized from hard copy. |
