@@ -4,6 +4,7 @@
 
 ### Added
 
+- Citation Bill Type and Citation Bill Number columns.
 - to README, Summary: disclaimer about not being an official publication.
 
 ### Changed
