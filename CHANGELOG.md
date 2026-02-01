@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0] - 2026-02-01
+
+### Added
+
+- to README, Summary: disclaimer about not being an official publication.
+
+### Changed
+
+- Index Volume field to use Coverage instead of year published.
+- Moved Source Works table to separate file.
+- README citation to Hirtle to current version.
+- TSV file folder and name to accommodate one file per volume in volume type folders.
+
 ## [1.1.1] - 2025-07-21
 
 ### Added
@@ -39,6 +52,7 @@
 
 - Public release of the Law Indexes: Maine repository.
 
+[1.2.0]: https://github.com/localgeohistoryproject/law-indexes-maine/compare/v1.1.1...v1.2.0
 [1.1.1]: https://github.com/localgeohistoryproject/law-indexes-maine/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/localgeohistoryproject/law-indexes-maine/compare/v1.0.1...v1.1.0
 [1.0.1]: https://github.com/localgeohistoryproject/law-indexes-maine/compare/v1.0.0...v1.0.1

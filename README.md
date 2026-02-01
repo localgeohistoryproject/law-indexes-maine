@@ -8,9 +8,11 @@ As part of efforts to expand the Local Geohistory Project, which aims to educate
 
 Private and special laws concern one or several individuals, entities, or localities, unlike public or general laws, which apply to all similarly situated individuals, entities, and localities within a jurisdiction. Throughout New England, private and special laws were often the primary method used to alter municipal and county boundaries and forms of government.
 
-The law index is released as a tab-separated values (TSV) file, **output/MeLawIndex.tsv**. The Detail column may contain additional Prefix information that is repeated from prior entries.
+The data is released as individual tab-separated values (TSV) files by volume. The Detail column may contain additional Prefix information that is repeated from prior entries.
 
 This repository does not contain the full text of the laws, nor does it currently contain links to the full text. Because the index was created using OCR technology, it may contain uncaptured errors.
+
+This is not an official publication of the State of Maine or any of its instrumentalities, and is not affiliated with or endorsed by any government agency at any level.
 
 ## Harmful Content
 
@@ -31,16 +33,9 @@ A header row containing column names is included. When importing into a relation
 
 ## Source Works
 
-The following Source Works were used to create this law index:
+A complete list of the Source Works used in this repository is available under [Source Works.md](Source%20Works.md). Prior to inclusion, Source Works were examined to determine whether they fell under the public domain in the United States, using the following guides:
 
-| Citation | Coverage | Online Version | Notes |
-| -------- | -------- | -------------- | ----- |
-| Maine Attorney General. *Index to the Private and Special Laws enacted by the Legislatures of the State of Maine from 1820 to 1944, inclusive.* Augusta, Me.: 1944. | 1820-1944 | [Maine Law and Legislative Reference Library](https://lldc.mainelegislature.org/Open/Laws/Indexes/PSIndex_1820-1944.pdf) | No copyright notice found. Version used for this index personally digitized from hard copy. |
-| Maine Attorney General. *Index to the Private and Special Laws enacted by the Legislature of the State of Maine, 1944 to 1957.* [Augusta, Me.?: 1958?] | 1944-1957 | [Maine Law and Legislative Reference Library](https://lldc.mainelegislature.org/Open/Laws/Indexes/PSIndex_1944-1957.pdf) | No copyright notice found. Version used for this index personally digitized from hard copy. |
-
-Prior to inclusion, source works were examined to determine whether they fell under the public domain in the United States, using the following guides:
-
-Hirtle, Peter B. "Copyright Services: Copyright Term and the Public Domain." *Cornell University Library.* 14 January 2025. <https://guides.library.cornell.edu/copyright/publicdomain>.
+Hirtle, Peter B. "Copyright Services: Copyright Term and the Public Domain." *Cornell University Library.* 1 January 2026. <https://guides.library.cornell.edu/copyright/publicdomain>.
 
 U.S. Copyright Office. *Compendium of U.S. Copyright Office Practices,* 3rd ed. 2021. § 313.6(C). <https://www.copyright.gov/comp3/docs/compendium.pdf#page=83>.
 
