@@ -1,5 +1,7 @@
 # Changelog
 
+## [Unreleased]
+
 ## [1.2.0] - 2026-02-01
 
 ### Added
@@ -53,6 +55,7 @@
 
 - Public release of the Law Indexes: Maine repository.
 
+[Unreleased]: https://github.com/localgeohistoryproject/law-indexes-maine/compare/v1.2.0...develop
 [1.2.0]: https://github.com/localgeohistoryproject/law-indexes-maine/compare/v1.1.1...v1.2.0
 [1.1.1]: https://github.com/localgeohistoryproject/law-indexes-maine/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/localgeohistoryproject/law-indexes-maine/compare/v1.0.1...v1.1.0
